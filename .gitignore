@@ -1,0 +1,9 @@
+/build/
+/vendor/
+/bin/
+/composer.phar
+.idea/
+/nbproject/private/
+.settings/org.eclipse.wst.validation.prefs
+.project
+.buildpath
