@@ -4,13 +4,19 @@ namespace OstrikovG\ComposerPackageCreate;
 
 class MyComposerClass
 {
-    public $result;
+    private $result;
 
+    /**
+     * @return string
+     */
     public function createResult()
     {
         return $this->result = md5(rand());
     }
 
+    /**
+     * @return int
+     */
     public function writeResult()
     {
         if (isset($this->result)) {
