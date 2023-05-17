@@ -1,7 +1,7 @@
 {
   "name": "ostrikov-g/composer-package-create",
   "description": "Test composer package",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Hlib Ostrikov",
