@@ -1,9 +1,10 @@
-/build/
-/vendor/
-/bin/
-/composer.phar
+###> MacBook ###
+.DS_Store
+###> MacBook ###
+
+###> IDE ###
 .idea/
-/nbproject/private/
-.settings/org.eclipse.wst.validation.prefs
-.project
-.buildpath
+.vscode/
+###> IDE ###
+
+vendor/
